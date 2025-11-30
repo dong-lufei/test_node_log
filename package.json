@@ -4,6 +4,7 @@
 		"start": "node servers.js"
 	},
 	"dependencies": {
-		"express": "^5.1.0"
+		"express": "^5.1.0",
+		"pino": "^10.1.0"
 	}
 }
